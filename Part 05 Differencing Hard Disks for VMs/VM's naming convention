@@ -1,0 +1,6 @@
+Naming convention for Virtual machines
+
+Here’s a suggested naming convention for your Home Lab:
+RRAS Server = NDL-RRAS (Ninja Demo Lab Routing and Remote Access Server)
+Domain Controller Server = NDL-DC01 (Ninja Demo Lab Domain Controller 01)
+Windows Client Machine = NDL-CL01-MEJ (Ninja Demo Lab Client 01 Microsoft Entra Joined)
