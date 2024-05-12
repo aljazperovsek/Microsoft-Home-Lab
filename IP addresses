@@ -1,0 +1,23 @@
+RRAS Server (NDL-RRAS):
+
+  Private Network:
+    IP: 192.168.178.1
+    Subnet Mask: 255.255.255.0 (24)
+    Default Gateway: /
+    DNS: /
+
+  External Network (DHCP) - receives configuration from my physical router - your can be different
+      IP: 192.168.1.254
+      Subnet Mask: 255.255.255.0 (24)
+      Default Gateway: 192.168.1.1
+      DNS: 192.168.1.1
+------------------------------------------------------------------------------------------------------------------------
+Virtual machine (NDL-MEJ)
+
+  Private Network:
+    IP: 192.168.178.220
+    Subnet Mask: 255.255.255.0 (24)
+    Default Gateway: 192.168.178.1 (IP of the RRAS Server)
+    DNS: 8.8.8.8 (Temporary)
+
+
