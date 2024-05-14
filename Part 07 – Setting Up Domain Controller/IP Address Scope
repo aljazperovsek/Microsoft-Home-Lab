@@ -1,0 +1,10 @@
+Domain Controller (NDL-DC01):
+  Private Network:
+    IP: 192.168.178.100
+    Subnet Mask: 255.255.255.0 (24)
+    Default Gateway: 192.168.178.1
+    DNS Prefered: 127.0.0.1
+    DNS Alternate: 8.8.8.8 
+
+
+
